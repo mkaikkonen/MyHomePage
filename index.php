@@ -33,6 +33,7 @@
                 <li><a href="#Family" data-toggle="tab"><span class="glyphicon glyphicon-heart"></span> Family</a></li>
                 <li><a href="#Work" data-toggle="tab"><span class="glyphicon glyphicon-euro"></span> Work</a></li>
                 <li><a href="#Hobbies" data-toggle="tab"><span class="glyphicon glyphicon-euro"></span> Hobbies</a></li>
+                <li><a href="#Projects" data-toggle="tab"><span class="glyphicon glyphicon-euro"></span> Projects</a></li>
                 <li><a href="#About" data-toggle="tab"><span class="glyphicon glyphicon-file"></span> Info</a></li>
             </ul>
             <div id="myTabContent" class="tab-content">
@@ -97,6 +98,14 @@
                         </li>
                     </ul>
                 </div>
+                <div class="tab-pane fade" id="Projects">
+                    <br>
+                    <p>Hacker News Viewer wep page</p>
+                    <a href="http://kaikkonen.atspace.eu/hnv/">Hacker News Viewer</a>
+                    <hr>
+                    <p>Temperature measurement project with Raspberry Pi B+</p>
+                    <iframe src="https://docs.google.com/spreadsheets/d/16ur77kYzqA8yeWzQfnBo9ub4ynm59ssBl1Tt_gdyRuE/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="400"></iframe>
+                </div>                
                 <div class="tab-pane fade" id="Work">
                     <section id="left" class="col-sm-8">
                         <br>
